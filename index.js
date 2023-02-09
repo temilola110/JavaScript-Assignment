@@ -15,10 +15,10 @@ console.log(multiply(10, 3))
 
 let firstname = 'Temilola Mustapha';
 // let lastname = 'Mustapha';
-let stutern  = 'FrontEnd development student';
+let stutern  = 'FrontEnd Engineer';
 let skills = 'HTML and CSS'
 let favorite  = 'Pink and Black';
-let independence  = '2nd of October, 1960 ';
+let independence  = '1st of October, 1960 ';
 
 
 // console.log(firstname);
