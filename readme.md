@@ -7,9 +7,9 @@
  d) JavaScript is used for creating Desktopmapplications e.g Electron
  e) JavaScript is also used in creating visual representations of data using code.
 
- When was ECMAScript first released ? - ECMAScript was first released in 1997.
+ When was ECMAScript first released ? - ECMAScript was first released in June 1997.
 
- How do you log to the console? - console. log('message')
+ How do you log to the console? - console.log('message')
 
  List the tech fields that use JavaScript, for example FrontEnd.
  a)FrontEnd Developer
